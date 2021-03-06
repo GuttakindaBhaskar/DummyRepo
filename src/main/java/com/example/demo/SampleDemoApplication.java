@@ -15,6 +15,7 @@ public static Logger log=LoggerFactory.getLogger(SampleDemoApplication.class);
 		int a=100;
 		System.out.println("SampleDemoApplication.main()");
 		log.info("ENDED");
+		System.out.println("This is Branch Created by Bhaskar)");
 	}
 
 }
