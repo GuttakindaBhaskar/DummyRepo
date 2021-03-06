@@ -12,7 +12,7 @@ public static Logger log=LoggerFactory.getLogger(SampleDemoApplication.class);
 
 		SpringApplication.run(SampleDemoApplication.class, args);
 		log.info("STARTED");
-		int a;
+		int a=10;
 		System.out.println("SampleDemoApplication.main()");
 		log.info("ENDED");
 	}
